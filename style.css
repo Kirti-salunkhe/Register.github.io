@@ -1,0 +1,33 @@
+.box{
+	padding:20px 30px;
+	border:1px solid;
+	background-color:#000;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	width:500px;
+	
+}
+body{
+	background-image:url("img3.jpg");
+	background-size:cover;
+	
+}
+lable{
+	color:#fff;
+	font-size:17px;
+	font-weight:bold;
+}
+.textbox input{
+	background:none;
+	border:none;
+	outline:none;
+	border-bottom:1px solid #fff;
+	width:400px;
+	margin:10px;
+}
+.textbox h2{
+padding-bottom:20px;
+
+}
